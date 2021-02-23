@@ -6,7 +6,7 @@ We would love you to contribute to Flilia and help make it even better than it i
 - [Commit Message Guidelines](#commit)
 
 ## <a name="question"></a> Got a Question or Problem?
-You can start discussion and ask any question related with development in [Developers team][developers-team] 
+You can start discussion and ask any question related to development in [Developers team][developers-team] 
 
 ## <a name="submit"></a> Submission Guidelines
 
@@ -24,8 +24,8 @@ You can start discussion and ask any question related with development in [Devel
      git push origin my-fix-branch
      ```
 
-#### After your pull request is merged
-After your pull request is merged, you can safely delete your branch and pull the changes from the main (upstream) repository:
+#### Once your pull request is merged
+Once your pull request is merged, you can safely delete your branch and pull the changes from the main (upstream) repository:
 
 1. Delete the remote branch on GitHub either through the GitHub web UI or your local shell as follows:
      ```shell
@@ -62,7 +62,7 @@ Example: <Fix: Remove dublicates in css (AB#526)>
 
 <Type>: <Summary> (<Scope>)
    │        │         |
-   │        |         └─⫸ Scope is requiered if changes is related with ADO tasks: (AB#526)
+   │        |         └─⫸ Scope is requiered if changes is related to ADO tasks: (AB#526)
    |        |
    │        └─⫸ Summary in present tense. Capitalized. No dot at the end.
    │
@@ -86,10 +86,10 @@ The `<Type>` and `<Summary>` fields are mandatory, `(<Scope>)` field is optional
 - Capitalize the first letter
 - no dot (.) at the end
 
-`(<Scope>)` - if the changes related with tasks from ADO, `<Scope>` field is requiered:
-- add the number of related task from ADO: (AB#526)
-- optionally add related pull requests numbers if exist: (#242)
-- separate many relations with commas: (AB#526, #242)
+`(<Scope>)` - if the changes related to tasks from ADO, `<Scope>` field is required:
+- add the ID of related task from ADO: (AB#526)
+- optionally add related pull requests ID: (#242)
+- separate relations with commas: (AB#526, #242)
 
 #### <a name="commitMessageBodyFormat"></a> Commit message body
 Just as in the summary, use the imperative, present tense: "fix" not "fixed" nor "fixes".
