@@ -43,8 +43,8 @@ Be sure that your idea coincides with the activity of the product and will be us
      git push origin my-fix-branch
      ```
 
-#### After your pull request is merged
-After your pull request is merged, you can safely delete your branch and pull the changes from the main (upstream) repository:
+#### Once your pull request is merged
+Once your pull request is merged, you can safely delete your branch and pull the changes from the main (upstream) repository:
 
 1. Delete the remote branch on GitHub either through the GitHub web UI or your local shell as follows:
      ```shell
