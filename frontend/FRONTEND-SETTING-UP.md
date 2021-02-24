@@ -22,6 +22,7 @@
 - [Flilia SPA: support][flilia-support-client-spa]
 
 ## <a name="setup"></a> Development Setup (Windows)
+<strong>NOTE</strong>: Remember that each project repository may have its own specific setup instruction, which are written into the `README.md` file.
 
 #### Prerequisites
 - Install [GIT][git]
