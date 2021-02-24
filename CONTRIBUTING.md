@@ -2,11 +2,30 @@
 We would love you to contribute to Flilia and help make it even better than it is today! As a contributor, here are guidelines we would like you to follow:
 
 - [Question or Problem?](#question)
+- [Found a Bug?](#bug)
+- [Have an idea?](#idea)
 - [Submission Guidelines](#submit)
 - [Commit Message Guidelines](#commit)
 
-## <a name="question"></a> Got a Question or Problem?
-You can start discussion and ask any question related with development in [Developers team][developers-team] 
+## Got a Question or Problem?
+- If your question not related with development, please contact a project manager by email or Teams.
+- If your question related with development and project source code, feel free to start discussion and ask any questions in [Developers team][developers-team].
+- If your question related with development but not with project source code, we recommend using [Stack Overflow][stackoverflow] to ask support-related questions.
+	```
+	Stack Overflow is a much better place to ask questions since:
+	- there are thousands of people willing to help on Stack Overflow
+	- questions and answers stay available for public viewing so your question/answer might help someone else
+	- Stack Overflow's voting system assures that the best answers are prominently visible.
+	```
+- If you would like to chat about the question in real-time, you can reach out via our Flilia team in Microsoft Teams.
+
+## <a name="bug"></a> Found a Bug?
+If you find a bug in the source code, you can help us by [submitting an bug][azurebug] to our [project management tool][azureflilia]. Even better, you can submit a Pull Request with a fix.
+
+## <a name="idea"></a> Have an idea?
+If you have an idea or new feature, feel free to discuss it with us. Contact a project manager or team lead for further details.
+
+Be sure that your idea coincides with the activity of the product and will be useful in the future for users of our service.
 
 ## <a name="submit"></a> Submission Guidelines
 
@@ -62,7 +81,7 @@ Example: <Fix: Remove dublicates in css (AB#526)>
 
 <Type>: <Summary> (<Scope>)
    │        │         |
-   │        |         └─⫸ Scope is requiered if changes is related with ADO tasks: (AB#526)
+   │        |         └─⫸ Scope is requiered if changes is related with Azure DevOps tasks: (AB#526)
    |        |
    │        └─⫸ Summary in present tense. Capitalized. No dot at the end.
    │
@@ -86,8 +105,8 @@ The `<Type>` and `<Summary>` fields are mandatory, `(<Scope>)` field is optional
 - Capitalize the first letter
 - no dot (.) at the end
 
-`(<Scope>)` - if the changes related with tasks from ADO, `<Scope>` field is requiered:
-- add the number of related task from ADO: (AB#526)
+`(<Scope>)` - if the changes related with tasks from Azure DevOps, `<Scope>` field is requiered:
+- add the number of related task from Azure DevOps: (AB#526)
 - optionally add related pull requests numbers if exist: (#242)
 - separate many relations with commas: (AB#526, #242)
 
@@ -104,5 +123,13 @@ The content of the commit message body should contain:
 - information about the SHA of the commit being reverted in the following format: This reverts commit `<SHA>`,
 - a clear description of the reason for reverting the commit message.
 
-#
+## <a name="guidance"></a> Related documentation and guidance
+This guides will help you get started with installing and setting up the languages and tools you need to develop on Windows or Windows Subsystem for Linux:
+
+- [Azure DevOps Server][azure] is a Microsoft product that provides version control, reporting, requirements management, project management, automated builds, testing and release management capabilities.
+
 [developers-team]: https://github.com/orgs/flilia/teams/developers-team
+[azure]: https://azure.microsoft.com/en-us/services/devops/
+[stackoverflow]: http://stackoverflow.com/
+[azurebug]: https://docs.microsoft.com/en-us/azure/devops/boards/backlogs/manage-bugs?view=azure-devops&tabs=new-web-form
+[azureflilia]: https://dev.azure.com/flilia/Flilia
