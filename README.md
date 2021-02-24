@@ -35,9 +35,9 @@ Get started with an introduction to our [project management process][project-man
 Read through our [contributing guidelines][contributing] to learn about our submission process, coding rules and more.
 
 ## Got a Question or Problem?
-- If your question not related with development, please contact a project manager by email or Teams.
-- If your question related with development and project source code, feel free to start discussion and ask any questions in [Developers team][developers-team].
-- If your question related with development but not with project source code, we recommend using [Stack Overflow][stackoverflow] to ask support-related questions.
+- If your question not related to development, please contact a project manager by email or Teams.
+- If your question related to development and project source code, feel free to start discussion and ask any questions in [Developers team][developers-team].
+- If your question related to development but not with project source code, we recommend using [Stack Overflow][stackoverflow] to ask support-related questions.
 	```
 	Stack Overflow is a much better place to ask questions since:
 	- there are thousands of people willing to help on Stack Overflow

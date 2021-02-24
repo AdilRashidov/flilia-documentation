@@ -8,9 +8,9 @@ We would love you to contribute to Flilia and help make it even better than it i
 - [Commit Message Guidelines](#commit)
 
 ## Got a Question or Problem?
-- If your question not related with development, please contact a project manager by email or Teams.
-- If your question related with development and project source code, feel free to start discussion and ask any questions in [Developers team][developers-team].
-- If your question related with development but not with project source code, we recommend using [Stack Overflow][stackoverflow] to ask support-related questions.
+- If your question not related to development, please contact a project manager by email or Teams.
+- If your question related to development and project source code, feel free to start discussion and ask any questions in [Developers team][developers-team].
+- If your question related to development but not with project source code, we recommend using [Stack Overflow][stackoverflow] to ask support-related questions.
 	```
 	Stack Overflow is a much better place to ask questions since:
 	- there are thousands of people willing to help on Stack Overflow
@@ -81,7 +81,7 @@ Example: <Fix: Remove dublicates in css (AB#526)>
 
 <Type>: <Summary> (<Scope>)
    │        │         |
-   │        |         └─⫸ Scope is requiered if changes is related with Azure DevOps tasks: (AB#526)
+   │        |         └─⫸ Scope is requiered if changes is related to Azure DevOps tasks: (AB#526)
    |        |
    │        └─⫸ Summary in present tense. Capitalized. No dot at the end.
    │
@@ -105,9 +105,9 @@ The `<Type>` and `<Summary>` fields are mandatory, `(<Scope>)` field is optional
 - Capitalize the first letter
 - no dot (.) at the end
 
-`(<Scope>)` - if the changes related with tasks from Azure DevOps, `<Scope>` field is requiered:
-- add the number of related task from Azure DevOps: (AB#526)
-- optionally add related pull requests numbers if exist: (#242)
+`(<Scope>)` - if the changes related to tasks from Azure DevOps, `<Scope>` field is required:
+- add the ID of related task from Azure DevOps: (AB#526)
+- optionally add related pull requests ID if exist: (#242)
 - separate many relations with commas: (AB#526, #242)
 
 #### <a name="commitMessageBodyFormat"></a> Commit message body
