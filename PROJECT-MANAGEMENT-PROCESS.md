@@ -16,7 +16,7 @@ We would love you to contribute to Flilia and help make it even better than it i
 	- questions and answers stay available for public viewing so your question/answer might help someone else
 	- Stack Overflow's voting system assures that the best answers are prominently visible.
 	```
-- If you would like to chat about the question in real-time, you can reach out via our Flilia team in Microsoft Teams.
+- If you would like to chat about the question in real-time, you can reach out via our Flilia team channels in Teams.
 
 ## <a name="start"></a> Getting started
 
@@ -41,11 +41,17 @@ Teams online: "https://teams.microsoft.com"
 Azure DevOps: "https://dev.azure.com/flilia/Flilia"
 ```
 
-## <a name="scrum"></a> About Scrum, Sprints and GitHub
-For the further work, introducing with [Azure Scrum process][scrumazure] and read more details and guidelines about [our management process][fliliawiki] on corporate wiki.
+## <a name="scrum"></a> About Scrum, Sprints, WITs and GitHub
+For the further work, read more details and guidelines about [Azure Scrum process][scrumazure].
+
+Currently we have three areas for each part of project with its own [delivery plan][plan].
+```swift
+Area 1: flilia.com
+Area 2: business.flilia.com
+Area 3: support.flilia.com
+```
 
 #### Scrum and Sprints
-
 [Scrum][scrum] methods use Iteration Paths, also referred to as sprints, to plan work to be performed by a team within a specific time period and cadence.
 
 The default time period of 1 sprint in our project is 2 week.
@@ -74,6 +80,24 @@ Sprint Planning addresses the following topics:
 - What can be Done this Sprint?
 - How will the chosen work get done?
 
+#### WITs
+Agile management processes have [work item types][scrumwits] (WITs) they provide for planning and tracking work.
+
+In our project we use lightweight Scrum process that have the following WITs:
+```html
+Portfolio
+backlog    <Feature>
+               |
+-------------------------------------
+Product        |
+backlog        └─⫸ <Product-Backlog-Item>
+               |             |
+               |             └─⫸ <Task>
+               └─⫸ <Bug>
+                      |
+                      └─⫸ <Task>
+```
+
 #### Connect with GitHub
 As we use Azure DevOps Boards connected with GitHub, here are guidelines we would like you to follow:
 - From GitHub, use `AB#<Task ID>` to link GitHub commits and pull requests to your issues and tasks.
@@ -101,3 +125,5 @@ This guides will help you get started with installing and setting up the languag
 [strimpretro]: https://www.scrum.org/resources/what-is-a-sprint-retrospective
 [contributing]: CONTRIBUTING.md
 [stackoverflow]: http://stackoverflow.com/
+[scrumwits]: https://docs.microsoft.com/en-us/azure/devops/boards/work-items/guidance/scrum-process-workflow?view=azure-devops
+[plan]: https://dev.azure.com/flilia/Flilia/_deliveryplans/plans

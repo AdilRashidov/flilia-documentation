@@ -44,7 +44,7 @@ Read through our [contributing guidelines][contributing] to learn about our subm
 	- questions and answers stay available for public viewing so your question/answer might help someone else
 	- Stack Overflow's voting system assures that the best answers are prominently visible.
 	```
-- If you would like to chat about the question in real-time, you can reach out via our Flilia team in Microsoft Teams.
+- If you would like to chat about the question in real-time, you can reach out via our Flilia team channels in Teams.
 
 <br>
 

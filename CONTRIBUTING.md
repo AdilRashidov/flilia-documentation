@@ -17,13 +17,13 @@ We would love you to contribute to Flilia and help make it even better than it i
 	- questions and answers stay available for public viewing so your question/answer might help someone else
 	- Stack Overflow's voting system assures that the best answers are prominently visible.
 	```
-- If you would like to chat about the question in real-time, you can reach out via our Flilia team in Microsoft Teams.
+- If you would like to chat about the question in real-time, you can reach out via our Flilia team channels in Teams.
 
 ## <a name="bug"></a> Found a Bug?
-If you find a bug in the source code, you can help us by [submitting an bug][azurebug] to our [project management tool][azureflilia]. Even better, you can submit a Pull Request with a fix.
+If you find a bug in the source code, you can help us by [submitting an bug][azurebug] to our [project management tool][azureflilia] or write about it via our Flilia team channels in Teams. Even better, you can submit a Pull Request with a fix.
 
 ## <a name="idea"></a> Have an idea?
-If you have an idea or new feature, feel free to discuss it with us. Contact a project manager or team lead for further details.
+If you have an idea or new feature, feel free to discuss it with us. Write about it via our Flilia team channels in Teams or contact a project manager or team lead for further details.
 
 Be sure that your idea coincides with the activity of the product and will be useful in the future for users of our service.
 
@@ -81,7 +81,7 @@ Example: <Fix: Remove dublicates in css (AB#526)>
 
 <Type>: <Summary> (<Scope>)
    │        │         |
-   │        |         └─⫸ Scope is requiered if changes is related to Azure DevOps tasks: (AB#526)
+   │        |         └─⫸ Scope is requiered if changes is related to Azure DevOps issues and tasks: (AB#526)
    |        |
    │        └─⫸ Summary in present tense. Capitalized. No dot at the end.
    │
@@ -105,8 +105,8 @@ The `<Type>` and `<Summary>` fields are mandatory, `(<Scope>)` field is optional
 - Capitalize the first letter
 - no dot (.) at the end
 
-`(<Scope>)` - if the changes related to tasks from Azure DevOps, `<Scope>` field is required:
-- add the ID of related task from Azure DevOps: (AB#526)
+`(<Scope>)` - if the changes related to issues and tasks from Azure DevOps, `<Scope>` field is required:
+- add the ID of related issues and tasks from Azure DevOps: (AB#526)
 - optionally add related pull requests ID if exist: (#242)
 - separate many relations with commas: (AB#526, #242)
 
