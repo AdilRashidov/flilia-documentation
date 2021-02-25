@@ -31,7 +31,7 @@ Get started with an introduction to our [project management process][project-man
 - [Setting up a projects for frontend][frontend-setting-up]
 - [Setting up a projects for backend][backend-setting-up]
 
-## Contributing:
+## Contributing
 Read through our [contributing guidelines][contributing] to learn about our submission process, coding rules and more.
 
 ## Got a Question or Problem?

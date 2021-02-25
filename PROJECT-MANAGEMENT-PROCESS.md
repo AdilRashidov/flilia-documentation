@@ -54,8 +54,8 @@ The default time period of 1 sprint in our project is 2 week.
              2 week
 -----⦿---------------------⦿
   |  |             |        |
-  |  └─------------|--------└─----⫸ 1. Completed sprint <retrospective>
-  |                |                 2. New sprint <planning> before starts 
+  |  └─------------|--------└─--⫸ 1. Conducting <retrospective> on completed sprint
+  |                |               2. New sprint <planning> before start
   |                |                       
   └─⫸ Sprint 12   └─⫸ Sprint 13
 ```
