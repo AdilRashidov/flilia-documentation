@@ -1,22 +1,9 @@
 # Introduction to our project management process
 We would love you to contribute to Flilia and help make it even better than it is today! As a contributor, here are guidelines we would like you to follow:
 
-- [Question or Problem?](#question)
 - [Getting started](#start)
 - [About Scrum, Sprints and GitHub](#scrum)
 - [Related documentation and guidance](#guidance)
-
-## Got a Question or Problem?
-- If your question not related to development, please contact a project manager by email or Teams.
-- If your question related to development and project source code, feel free to start discussion and ask any questions in [Developers team][developers-team].
-- If your question related to development but not with project source code, we recommend using [Stack Overflow][stackoverflow] to ask support-related questions.
-	```
-	Stack Overflow is a much better place to ask questions since:
-	- there are thousands of people willing to help on Stack Overflow
-	- questions and answers stay available for public viewing so your question/answer might help someone else
-	- Stack Overflow's voting system assures that the best answers are prominently visible.
-	```
-- If you would like to chat about the question in real-time, you can reach out via our Flilia team channels in Teams.
 
 ## <a name="start"></a> Getting started
 
@@ -45,10 +32,10 @@ Azure DevOps: "https://dev.azure.com/flilia/Flilia"
 For the further work, read more details and guidelines about [Azure Scrum process][scrumazure].
 
 Currently we have three areas for each part of project with its own [delivery plan][plan].
-```swift
-Area 1: flilia.com
-Area 2: business.flilia.com
-Area 3: support.flilia.com
+```shell
+Area-1: "flilia.com"
+Area-2: "business.flilia.com"
+Area-3: "support.flilia.com"
 ```
 
 #### Scrum and Sprints

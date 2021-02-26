@@ -34,18 +34,6 @@ Get started with an introduction to our [project management process][project-man
 ## Contributing
 Read through our [contributing guidelines][contributing] to learn about our submission process, coding rules and more.
 
-## Got a Question or Problem?
-- If your question not related to development, please contact a project manager by email or Teams.
-- If your question related to development and project source code, feel free to start discussion and ask any questions in [Developers team][developers-team].
-- If your question related to development but not with project source code, we recommend using [Stack Overflow][stackoverflow] to ask support-related questions.
-	```
-	Stack Overflow is a much better place to ask questions since:
-	- there are thousands of people willing to help on Stack Overflow
-	- questions and answers stay available for public viewing so your question/answer might help someone else
-	- Stack Overflow's voting system assures that the best answers are prominently visible.
-	```
-- If you would like to chat about the question in real-time, you can reach out via our Flilia team channels in Teams.
-
 <br>
 
 [![Love Flilia badge](https://img.shields.io/badge/flilia-love-orange)](https://flilia.com)

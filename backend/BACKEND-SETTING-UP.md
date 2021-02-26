@@ -1,20 +1,7 @@
 # Setting up a projects for backend
-- [Question or Problem?](#question)
 - [Available backend apps](#apps)
 - [Development Setup (Windows)](#setup)
 - [Related documentation and guidance](#guidance)
-
-## Got a Question or Problem?
-- If your question not related to development, please contact a project manager by email or Teams.
-- If your question related to development and project source code, feel free to start discussion and ask any questions in [Developers team][developers-team].
-- If your question related to development but not with project source code, we recommend using [Stack Overflow][stackoverflow] to ask support-related questions.
-	```
-	Stack Overflow is a much better place to ask questions since:
-	- there are thousands of people willing to help on Stack Overflow
-	- questions and answers stay available for public viewing so your question/answer might help someone else
-	- Stack Overflow's voting system assures that the best answers are prominently visible.
-	```
-- If you would like to chat about the question in real-time, you can reach out via our Flilia team channels in Teams.
 
 ## <a name="apps"></a> List of available backend repositories
 - [Flilia Services: profile][flilia-services-profile]
@@ -131,6 +118,10 @@ For the explore the code and debug the application we recommend you install one 
     ```
 
 ## <a name="guidance"></a> Related documentation and guidance
+Looking for an opinionated guide to C# syntax and conventions? Step right in! This style guide presents preferred conventions.
+- [C# Coding Conventions][ccodingconventions]
+- [C# documentation][cdocumentation]
+
 You can find the related reference Guide/eBook focusing on architecting and developing containerized and microservice based .NET Applications (download link available below) which explains in detail how to develop this kind of architectural style (microservices, Docker containers, Domain-Driven Design for certain microservices) plus other simpler architectural styles, like monolithic apps that can also live as Docker containers.
 
 There are also additional eBooks focusing on Containers/Docker lifecycle (DevOps, CI/CD, etc.) with Microsoft Tools, already published. You can download them and start reviewing these Guides/eBooks here:
@@ -192,3 +183,5 @@ This guides will help you get started with installing and setting up the languag
 [elastic]: https://www.elastic.co/guide/index.html
 [redis]: https://redis.io/documentation
 [stackoverflow]: http://stackoverflow.com/
+[ccodingconventions]: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions
+[cdocumentation]: https://docs.microsoft.com/en-us/dotnet/csharp/

@@ -1,20 +1,7 @@
 # Setting up a projects for frontend
-- [Question or Problem?](#question)
 - [Available frontend apps](#apps)
 - [Development Setup (Windows)](#setup)
 - [Related documentation and guidance](#guidance)
-
-## Got a Question or Problem?
-- If your question not related to development, please contact a project manager by email or Teams.
-- If your question related to development and project source code, feel free to start discussion and ask any questions in [Developers team][developers-team].
-- If your question related to development but not with project source code, we recommend using [Stack Overflow][stackoverflow] to ask support-related questions.
-	```
-	Stack Overflow is a much better place to ask questions since:
-	- there are thousands of people willing to help on Stack Overflow
-	- questions and answers stay available for public viewing so your question/answer might help someone else
-	- Stack Overflow's voting system assures that the best answers are prominently visible.
-	```
-- If you would like to chat about the question in real-time, you can reach out via our Flilia team channels in Teams.
 
 ## <a name="apps"></a> List of available frontend repositories
 - [Flilia SPA: main][flilia-main-client-spa]
@@ -73,8 +60,11 @@ SPA Support: "http://localhost:4201"
 ```
 
 ## <a name="guidance"></a> Related documentation and guidance
-This guides will help you get started with installing and setting up the languages and tools you need to develop on Windows or Windows Subsystem for Linux:
+Looking for an opinionated guide to Angular syntax, conventions, and application structure? Step right in! This style guide presents preferred conventions and, as importantly, explains why.
+- [Angular coding style guide][angularstyleguide]
+- [Getting Started with Angular Material][angularmaterialguides]
 
+This guides will help you get started with installing and setting up the languages and tools you need to develop on Windows or Windows Subsystem for Linux:
 - [Get started with NodeJS][nodejsdocs]. Install NodeJS and get your development environment setup on Windows or Windows Subsystem for Linux.
 - [Get started with Angular][angular]. Angular is an application design framework and development platform for creating efficient and sophisticated single-page apps.
 - [Windows Terminal][terminal]. Customize your terminal environment to work with multiple command line shells.
@@ -94,3 +84,5 @@ This guides will help you get started with installing and setting up the languag
 [flilia-about-client-spa]: https://github.com/flilia/flilia-about-client-spa
 [flilia-support-client-spa]: https://github.com/flilia/flilia-support-client-spa
 [stackoverflow]: http://stackoverflow.com/
+[angularstyleguide]: https://angular.io/guide/styleguide
+[angularmaterialguides]: https://material.angular.io/guides

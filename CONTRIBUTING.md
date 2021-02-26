@@ -8,16 +8,16 @@ We would love you to contribute to Flilia and help make it even better than it i
 - [Commit Message Guidelines](#commit)
 
 ## Got a Question or Problem?
-- If your question not related to development, please contact a project manager by email or Teams.
-- If your question related to development and project source code, feel free to start discussion and ask any questions in [Developers team][developers-team].
-- If your question related to development but not with project source code, we recommend using [Stack Overflow][stackoverflow] to ask support-related questions.
-	```
-	Stack Overflow is a much better place to ask questions since:
-	- there are thousands of people willing to help on Stack Overflow
-	- questions and answers stay available for public viewing so your question/answer might help someone else
-	- Stack Overflow's voting system assures that the best answers are prominently visible.
-	```
-- If you would like to chat about the question in real-time, you can reach out via our Flilia team channels in Teams.
+If your question related to project source code:
+- feel free to start discussion and ask any questions via our [Flilia Developers team][developers-team] on GitHub
+- if you would like to chat about the question in real-time, you can reach out via our Flilia team channels in Teams.
+
+If your question related to development and not related to project source code, we recommend using [StackOverflow][stackoverflow] to ask support-related questions.
+
+Stack Overflow is a much better place to ask questions since:
+- there are thousands of people willing to help on Stack Overflow
+- questions and answers stay available for public viewing so your question/answer might help someone else
+- Stack Overflow's voting system assures that the best answers are prominently visible.
 
 ## <a name="bug"></a> Found a Bug?
 If you find a bug in the source code, you can help us by [submitting an bug][azurebug] to our [project management tool][azureflilia] or write about it via our Flilia team channels in Teams. Even better, you can submit a Pull Request with a fix.
