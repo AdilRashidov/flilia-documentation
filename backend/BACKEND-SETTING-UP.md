@@ -1,6 +1,7 @@
 # Setting up a projects for backend
 - [Available backend apps](#apps)
 - [Development Setup (Windows)](#setup)
+- [Development environment architecture](#architectures)
 - [Related documentation and guidance](#guidance)
 
 ## <a name="apps"></a> List of available backend repositories
@@ -116,6 +117,9 @@ For the explore the code and debug the application we recommend you install one 
     Elasticsearch: "http://localhost:9200"
     Redis: "http://localhost:6379"
     ```
+
+## <a name="architectures"></a> Development environment architecture
+![Development environment architecture](./development-environment-architecture.svg)
 
 ## <a name="guidance"></a> Related documentation and guidance
 Looking for an opinionated guide to C# syntax and conventions? Step right in! This style guide presents preferred conventions.
