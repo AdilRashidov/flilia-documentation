@@ -78,7 +78,7 @@ For the explore the code and debug the application we recommend you install one 
     Service Account: "http://localhost:5000"
     Service User: "http://localhost:5017"
     Service Profile: "http://localhost:5010"
-    Service PostService: "http://localhost:5011"
+    Service Post: "http://localhost:5011"
     Service Shared: "http://localhost:5015"
     Service Storage: "http://localhost:5013"
     Service Network: "http://localhost:5018"
