@@ -2,6 +2,7 @@
 - [Available backend apps](#apps)
 - [Development Setup (Windows)](#setup)
 - [Development environment architecture](#architectures)
+- [Docker Swarm environment architecture](#swarmarchitectures)
 - [Related documentation and guidance](#guidance)
 
 ## <a name="apps"></a> List of available backend repositories
@@ -120,6 +121,9 @@ For the explore the code and debug the application we recommend you install one 
 
 ## <a name="architectures"></a> Development environment architecture
 ![Development environment architecture](./development-environment-architecture.svg)
+
+## <a name="swarmarchitectures"></a> Docker Swarm environment architecture
+![Docker Swarm environment architecture](./swarm-environment-architecture.svg)
 
 ## <a name="guidance"></a> Related documentation and guidance
 Looking for an opinionated guide to C# syntax and conventions? Step right in! This style guide presents preferred conventions.
