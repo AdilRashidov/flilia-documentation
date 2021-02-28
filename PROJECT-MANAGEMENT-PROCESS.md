@@ -39,7 +39,7 @@ For the further work, read more details and guidelines about [Scrum][scrum] and 
 - [Work item tags](#scrumtags)
 - [Connect with GitHub](#scrumgithub)
 
-#### Areas
+#### <a name="scrumareas"></a> Areas
 Currently we have three areas for each part of project with its own [delivery plan][plan].
 ```shell
 Area-1: "flilia.com"
@@ -47,7 +47,7 @@ Area-2: "business.flilia.com"
 Area-3: "support.flilia.com"
 ```
 
-#### Sprints
+#### <a name="scrumsprints"></a> Sprints
 The default time period of 1 sprint in our project is 2 week.
 
 ```html
@@ -74,7 +74,7 @@ Sprint Planning addresses the following topics:
 - What can be Done this Sprint?
 - How will the chosen work get done?
 
-#### Work item types
+#### <a name="scrumtypes"></a> Work item types
 Agile management processes have [work item types][scrumwits] (WITs) they provide for planning and tracking work.
 
 In our project we use lightweight Scrum process that have the following WITs:
@@ -92,7 +92,7 @@ backlog        └─⫸ <Product-Backlog-Item>
                       └─⫸ <Task>
 ```
 
-#### Work item tags
+#### <a name="scrumtags"></a> Work item tags
 [Tagging work items][tagging] helps you quickly filter the product backlog or a work item query by categories that you define. A tag corresponds to a one or two keyword phrase that you define and that supports your needs to filter a backlog or query, or define a query.
 
 We have a few rules for how tags should be added, this format leads to easier to read issues and task:
@@ -104,21 +104,21 @@ We have a few rules for how tags should be added, this format leads to easier to
 - total count cannot be more than 6
 
 There are several default tags that can be used in issues and tasks:
-- <span style="background:#ec001d; color:white; padding:2px;">bug</span> - Something isn't working
-- <span style="background:#2cbdd9; color:white; padding:2px;">documentation</span> - Improvements or additions to documentation
-- <span style="background:#525252; color:white; padding:2px;">duplicate</span> - This issue or pull request already exists
-- <span style="background:#00564b; color:white; padding:2px;">enhancement</span> - New feature or request
-- <span style="background:#245cac; color:white; padding:2px;">good first issue</span> - Good for newcomers
-- <span style="background:#7ace64; color:white; padding:2px;">help wanted</span> - Extra attention is needed
-- <span style="background:#fbfd52; color:white; padding:2px;">invalid</span> - This doesn't seem right
-- <span style="background:#ff00ff; color:white; padding:2px;">question</span> - Further information is requested
-- <span style="background:#525252; color:white; padding:2px;">wontfix</span> - This will not be worked on
+- [![#ec001d](https://via.placeholder.com/15/ec001d/000000?text=+) bug] - Something isn't working
+- [![#2cbdd9](https://via.placeholder.com/15/2cbdd9/000000?text=+) documentation] - Improvements or additions to documentation
+- [![#525252](https://via.placeholder.com/15/525252/000000?text=+) duplicate] - This issue or pull request already exists
+- [![#00564b](https://via.placeholder.com/15/00564b/000000?text=+) enhancement] - New feature or request
+- [![#245cac](https://via.placeholder.com/15/245cac/000000?text=+) good first issue] - Good for newcomers
+- [![#7ace64](https://via.placeholder.com/15/7ace64/000000?text=+) help wanted] - Extra attention is needed
+- [![#fbfd52](https://via.placeholder.com/15/fbfd52/000000?text=+) invalid] - This doesn't seem right
+- [![#ff00ff](https://via.placeholder.com/15/ff00ff/000000?text=+) question] - Further information is requested
+- [![#525252](https://via.placeholder.com/15/525252/000000?text=+) wontfix] - This will not be worked on
 
 You can add custom tags, but be sure new tags is conform to the issues and tasks subject.
 
 <strong>NOTE</strong>: If you misspell a tag, don't assign the misspelled tag to any work item and the system will automatically delete it within 3 days.
 
-#### Connect with GitHub
+#### <a name="scrumgithub"></a> Connect with GitHub
 As we use Azure DevOps Boards connected with GitHub, here are guidelines we would like you to follow:
 - From GitHub, use `AB#<Task ID>` to link GitHub commits and pull requests to your issues and tasks.
 - From Azure Boards issues and tasks, link to GitHub commits and pull requests.
