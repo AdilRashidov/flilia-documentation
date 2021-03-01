@@ -21,12 +21,10 @@ For the further work with Office365 and Azure DevOps services follow next steps:
 
 #### Summary
 You should be able to browse different services by using the below URLs:
-```shell
-Office365: "https://www.office.com"
-Outlook: "https://outlook.office.com"
-Teams online: "https://teams.microsoft.com"
-Azure DevOps: "https://dev.azure.com/flilia/Flilia"
-```
+- [Office365][office365]
+- [Outlook][outlook]
+- [Flilia channels in Teams][fliliateams]
+- [Flilia project in Azure DevOps][azureflilia]
 
 ## <a name="scrum"></a> About Scrum
 Scrum methods use Iteration Paths, also referred to as sprints, to plan work to be performed by a team within a specific time period and cadence.
@@ -133,6 +131,7 @@ This guides will help you get started with installing and setting up the languag
 - [Azure Scrum process][scrumazure]. Scrum process.
 - [What is Scrum?][scrum]. A Better Way Of Building Products.
 
+[azureflilia]: https://dev.azure.com/flilia/Flilia
 [developers-team]: https://github.com/orgs/flilia/teams/developers-team
 [azure]: https://azure.microsoft.com/en-us/services/devops/
 [teams]: https://www.microsoft.com/en/microsoft-teams/group-chat-software
@@ -148,3 +147,6 @@ This guides will help you get started with installing and setting up the languag
 [scrumwits]: https://docs.microsoft.com/en-us/azure/devops/boards/work-items/guidance/scrum-process-workflow?view=azure-devops
 [plan]: https://dev.azure.com/flilia/Flilia/_deliveryplans/plans
 [tagging]: https://docs.microsoft.com/en-us/azure/devops/boards/queries/add-tags-to-work-items?view=azure-devops
+[fliliateams]: https://teams.microsoft.com/l/team/19%3af126286a785b46e49b9a94d3eed0ffd8%40thread.tacv2/conversations?groupId=462ef793-2a17-4613-ab50-ea302d209c26&tenantId=be3b533b-6900-4e84-8338-a5934799565d
+[outlook]: https://outlook.office.com
+[office365]: https://www.office.com

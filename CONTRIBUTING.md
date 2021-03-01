@@ -10,7 +10,7 @@ We would love you to contribute to Flilia and help make it even better than it i
 ## Got a Question or Problem?
 If your question related to project source code:
 - feel free to start discussion and ask any questions via our [Flilia Developers team][developers-team] on GitHub
-- if you would like to chat about the question in real-time, you can reach out via our Flilia team channels in Teams.
+- if you would like to chat about the question in real-time, you can reach out via our [Flilia team channels][fliliateams] in Teams.
 
 If your question related to development and not related to project source code, we recommend using [StackOverflow][stackoverflow] to ask support-related questions.
 
@@ -23,7 +23,7 @@ Stack Overflow is a much better place to ask questions since:
 If you find a bug in the source code, you can help us by [submitting an bug][azurebug] to our [project management tool][azureflilia] or write about it via our Flilia team channels in Teams. Even better, you can submit a Pull Request with a fix.
 
 ## <a name="idea"></a> Have an idea?
-If you have an idea or new feature, feel free to discuss it with us. Write about it via our Flilia team channels in Teams or contact a project manager or team lead for further details.
+If you have an idea or new feature, feel free to discuss it with us. Write about it via our [Flilia team channels][fliliateams] in Teams or contact a project manager or team lead for further details.
 
 Be sure that your idea coincides with the activity of the product and will be useful in the future for users of our service.
 
@@ -133,3 +133,4 @@ This guides will help you get started with installing and setting up the languag
 [stackoverflow]: http://stackoverflow.com/
 [azurebug]: https://docs.microsoft.com/en-us/azure/devops/boards/backlogs/manage-bugs?view=azure-devops&tabs=new-web-form
 [azureflilia]: https://dev.azure.com/flilia/Flilia
+[fliliateams]: https://teams.microsoft.com/l/team/19%3af126286a785b46e49b9a94d3eed0ffd8%40thread.tacv2/conversations?groupId=462ef793-2a17-4613-ab50-ea302d209c26&tenantId=be3b533b-6900-4e84-8338-a5934799565d

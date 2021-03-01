@@ -153,7 +153,6 @@ This guides will help you get started with installing and setting up the languag
 - [Redis][redis]. Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker.
 - [Popular tutorials, courses, and code samples][. 
 
-[developers-team]: https://github.com/orgs/flilia/teams/developers-team
 [flilia-services-profile]: https://github.com/flilia/flilia.services.profile
 [flilia-services-identity]: https://github.com/flilia/flilia.services.identity
 [flilia-services-notification]: https://github.com/flilia/flilia.services.notification

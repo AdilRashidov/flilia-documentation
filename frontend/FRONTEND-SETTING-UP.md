@@ -71,7 +71,6 @@ This guides will help you get started with installing and setting up the languag
 - [Visual Studio Code][vscodedocs]. A lightweight source code editor with built-in support for JavaScript, TypeScript, Node.js, a rich ecosystem of extensions (C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity).
 - [GIT][gitdocs]. Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
-[developers-team]: https://github.com/orgs/flilia/teams/developers-team/
 [git]: https://git-scm.com/
 [gitdocs]: https://git-scm.com/doc
 [nodejs]: https://nodejs.org/

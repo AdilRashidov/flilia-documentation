@@ -42,5 +42,3 @@ Read through our [contributing guidelines][contributing] to learn about our subm
 [frontend-setting-up]: frontend/FRONTEND-SETTING-UP.md
 [backend-setting-up]: backend/BACKEND-SETTING-UP.md
 [contributing]: CONTRIBUTING.md
-[developers-team]: https://github.com/orgs/flilia/teams/developers-team
-[stackoverflow]: http://stackoverflow.com/
