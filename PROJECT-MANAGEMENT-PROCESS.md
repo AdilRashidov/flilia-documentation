@@ -38,7 +38,7 @@ For the further work, read more details and guidelines about [Scrum][scrum] and 
 - [Connect with GitHub](#scrumgithub)
 
 #### <a name="scrumareas"></a> Areas
-Currently we have three areas for each part of project with its own [delivery plan][plan].
+Currently we have three areas for each part of project with its own [Delivery Plan][plan].
 ```shell
 Area-1: "flilia.com"
 Area-2: "business.flilia.com"
@@ -146,7 +146,7 @@ This guides will help you get started with installing and setting up the languag
 [contributing]: CONTRIBUTING.md
 [stackoverflow]: http://stackoverflow.com/
 [scrumwits]: https://docs.microsoft.com/en-us/azure/devops/boards/work-items/guidance/scrum-process-workflow?view=azure-devops
-[plan]: https://dev.azure.com/flilia/Flilia/_deliveryplans/plans
+[plan]: https://dev.azure.com/flilia/Flilia/_deliveryplans/plan/dc023e6a-c4a5-4493-959b-af6f5e5a8f1a
 [tagging]: https://docs.microsoft.com/en-us/azure/devops/boards/queries/add-tags-to-work-items?view=azure-devops
 [fliliateams]: https://teams.microsoft.com/l/team/19%3af126286a785b46e49b9a94d3eed0ffd8%40thread.tacv2/conversations?groupId=462ef793-2a17-4613-ab50-ea302d209c26&tenantId=be3b533b-6900-4e84-8338-a5934799565d
 [outlook]: https://outlook.office.com
