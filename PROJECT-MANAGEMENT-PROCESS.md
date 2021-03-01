@@ -105,6 +105,7 @@ There are several default tags that can be used in issues and tasks:
 - [![#ec001d](https://via.placeholder.com/15/ec001d/000000?text=+) bug] - Something isn't working
 - [![#2cbdd9](https://via.placeholder.com/15/2cbdd9/000000?text=+) documentation] - Improvements or additions to documentation
 - [![#525252](https://via.placeholder.com/15/525252/000000?text=+) duplicate] - This issue or pull request already exists
+- [![#00564b](https://via.placeholder.com/15/00564b/000000?text=+) feature] - New feature or request
 - [![#00564b](https://via.placeholder.com/15/00564b/000000?text=+) enhancement] - New feature or request
 - [![#245cac](https://via.placeholder.com/15/245cac/000000?text=+) good first issue] - Good for newcomers
 - [![#7ace64](https://via.placeholder.com/15/7ace64/000000?text=+) help wanted] - Extra attention is needed
