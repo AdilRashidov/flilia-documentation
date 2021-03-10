@@ -84,6 +84,7 @@ For the explore the code and debug the application we recommend you install one 
     Service Storage: "http://localhost:5013"
     Service Network: "http://localhost:5018"
     Service Notification: "http://localhost:5025"
+    Service Business: "http://localhost:5021"
     ```
 - You can pull latest changes for all cloned repositories via following command:
     ```shell

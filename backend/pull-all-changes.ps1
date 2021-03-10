@@ -5,6 +5,7 @@ $ProfileServicePath = 'flilia.services.profile'
 $StorageServicePath = 'flilia.services.storage'
 $NetworkServicePath = 'flilia.services.network'
 $NotificationServicePath = 'flilia.services.notification'
+$BusinessServicePath = 'flilia.services.business'
 
 if (Test-Path $PostServicePath)
 {
@@ -51,6 +52,13 @@ if (Test-Path $NetworkServicePath)
 if (Test-Path $NotificationServicePath)
 {
     Set-Location $NotificationServicePath
+    git pull
+    Set-Location ..
+}
+
+if (Test-Path $BusinessServicePath)
+{
+    Set-Location $BusinessServicePath
     git pull
     Set-Location ..
 }

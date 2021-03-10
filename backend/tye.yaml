@@ -38,3 +38,8 @@ services:
   project: flilia.services.notification\src\WebApi\WebApi.csproj
   bindings:
     - port: 5025
+
+- name: BusinessService
+  project: flilia.services.business\src\WebApi\WebApi.csproj
+  bindings:
+    - port: 5021
