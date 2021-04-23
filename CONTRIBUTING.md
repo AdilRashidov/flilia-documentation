@@ -36,7 +36,7 @@ Be sure that your idea coincides with the activity of the product and will be us
      ```
 2. Commit your changes using a descriptive commit message that follows our [commit message conventions](#commit): 
      ```shell
-     git commit -m "Fix: Remove dublicates in css (AB#526)"
+     git commit -m "[Fix] Remove dublicates in css (AB#526)"
      ```
 3. Push your branch to GitHub:
      ```shell
@@ -77,7 +77,7 @@ Any line of the commit message cannot be longer than 100 characters.
 
 #### <a name="commitMessageHeaderFormat"></a> Commit Message Header
 ```html
-Example: <Fix: Remove dublicates in css (AB#526)>
+Example: <[Fix] Remove dublicates in css (AB#526)>
 
 <Type>: <Summary> (<Scope>)
    │        │         |
@@ -85,7 +85,7 @@ Example: <Fix: Remove dublicates in css (AB#526)>
    |        |
    │        └─⫸ Summary in present tense. Capitalized. No dot at the end.
    │
-   └─⫸ Commit Type: Build|CI|Docs|Feat|Fix|Perf|Refactor|Test
+   └─⫸ Commit Type: [Build|CI|Docs|Feat|Fix|Perf|Refactor|Test]
 ```
 
 The `<Type>` and `<Summary>` fields are mandatory, `(<Scope>)` field is optional.
