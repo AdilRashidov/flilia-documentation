@@ -43,3 +43,8 @@ services:
   project: flilia.services.business\src\WebApi\WebApi.csproj
   bindings:
     - port: 5021
+
+- name: SupportService
+  project: flilia.services.support\flilia.services.support\Flilia.Services.Support.csproj
+  bindings:
+    - port: 5027
